@@ -1,0 +1,147 @@
+body{
+    background-color: #edd3d5;
+}
+
+.home{
+    height: 87.5vh;
+}
+
+.container1{
+    display: flex;
+    font-size: 21px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    margin-left: 50%;
+    margin-top: 29px;
+    width: 100%;
+    
+}
+
+#h,#w,#a,#c{
+    margin-left: 6%;
+}
+
+
+.container1 a{
+    text-decoration: none;
+    color: black;
+}
+
+h1{
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 55px;
+}
+#intro{
+    margin-left: 99px;
+    margin-top: 4%;
+    line-height: 120%;
+}
+#wel{
+    font-family:'Poppins', sans-serif;
+    margin-left: 99px;
+    line-height: 200%;
+}
+#home1{
+    float: right;
+    height: 500px;
+    margin-top: 20px;
+    margin-right: 50px;
+}
+
+.container2{
+    display: flex;
+    margin-left: 99px;
+    margin-top: 50px;
+
+}
+#linkedin,#instagram,#dribbble{
+    margin-left: 70px;
+}
+#pree1{
+    background-color: #9c4a4a;
+    width: 100%;
+    color: #edd3d5;
+    font-size: 16px;
+}
+#pree1{
+    margin-top: 73px;
+}
+
+
+.works{
+    background-image: url(./images/work.png);
+    height: 123vh;
+    width: 100%;
+    background-size: 100%;
+}
+.proo>img{
+    height: 90%;
+    width: 100%;
+    
+}
+#Works{
+    margin-left: 99px;
+    padding-top: 25px;
+}
+
+.container3{
+    display: grid;
+    height: 100vh;
+    width: 100%;
+    grid-template-columns: 320px 320px;
+    grid-template-rows: 220px 220px;
+    gap: 80px;
+    justify-content: center;
+    text-align: center;
+    
+}
+.proo{
+    background-color: #9c4a4a;
+}
+.proo>p{
+    font-family: 'Poppins', sans-serif;
+    color: #edd3d5;
+    font-size: 13px;
+    padding: 8px;
+}
+h2{
+    font-family: 'Bai Jamjuree', sans-serif;
+    color: #edd3d5;
+    background-color: #733939;
+}
+#pree2{
+    background-color: #9c4a4a;
+    width: 100%;
+    color: #edd3d5;
+    font-size: 16px;
+}
+.abo{
+    margin-left: 99px;
+}
+#fla{
+    height: 100px;
+    float: right;
+    margin-right: 100px;
+    margin-left: 50px;
+
+}
+#gree{
+    margin-left: 99px;
+    font-family: 'Poppins', sans-serif;
+    line-height: 200%;
+    margin-right: 20px;
+}
+#pree3{
+    background-color: #9c4a4a;
+    width: 100%;
+    color: #edd3d5;
+    font-size: 16px;
+    margin-top: 110px;
+}
+#cont{
+    margin-left: 99px;
+}
+input{
+    margin-bottom: 15px;
+    margin-left: 99px;
+}
